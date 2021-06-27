@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>IInterfaceJogo</class>
+ <widget class="QDialog" name="IInterfaceJogo">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>1134</width>
+    <height>636</height>
+   </rect>
+  </property>
+  <property name="minimumSize">
+   <size>
+    <width>1134</width>
+    <height>636</height>
+   </size>
+  </property>
+  <property name="windowTitle">
+   <string>GamePhysics</string>
+  </property>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
