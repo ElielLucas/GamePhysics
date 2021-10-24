@@ -6,3 +6,10 @@ Para o desenvolvimento, utilizei de diversas estruturas de dados, implementadas 
 O jogo tem uma lógica bem simples, até o momento, se assemelhando ao Minecraft. Sendo que, o click direito coloca um bloco em posições, que estejam livres, a frente do player e o click esquerdo permite quebrar um bloco na posição à frente do player. Ainda, é possível atacar com uma magia pelo click do scroll.
 
 Como o jogo ainda está em desenvolvimento, não existe sistema de dano e, consequentemente, nenhuma fase prevista.
+
+<a href = "https://www.youtube.com/watch?v=lE7KBPgwoKQ">
+   <p align="center">
+    <img src="/imagesReadme/jogo.gif" align="center" width="800" height="400" /><br>
+   </p>
+   Click para ver o vídeo com áudio.
+</a>
