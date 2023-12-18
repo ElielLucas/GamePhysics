@@ -7,7 +7,7 @@ O jogo tem uma lógica bem simples, até o momento, se assemelhando ao Minecraft
 
 Como o jogo ainda está em desenvolvimento, não existe sistema de dano e, consequentemente, nenhuma fase prevista.
 
-<a href = "https://www.youtube.com/watch?v=lE7KBPgwoKQ">
+<a href = "[https://www.youtube.com/watch?v=lE7KBPgwoKQ](https://youtu.be/bJEQN9Ung94)">
    <p align="center">
     <img src="/imagesReadme/jogo.gif" align="center" width="800" height="400" /><br>
    </p>
